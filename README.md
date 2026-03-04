@@ -49,6 +49,7 @@ curl -X POST http://127.0.0.1:8001/execute \
     "sql": "INSERT INTO users (name, age) VALUES (?, ?)",
     "params": ["alice", 30]
   }'
+
 Update rows
 
 curl -X POST http://127.0.0.1:8001/execute \
