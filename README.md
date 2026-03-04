@@ -4,7 +4,7 @@ clusqliteite
 
 simple distributed sqlite
 
-clusqliteite example:
+clusqlite example:
 
 Run 3 nodes like this:
 
